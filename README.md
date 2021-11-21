@@ -16,10 +16,14 @@
 
 <img  alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<img  alt="NextJs" width="35px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" /> 
+
 <img  alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img  alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<img  alt="MangoDb" width="35px" src="https://avatars.githubusercontent.com/u/45120?s=280&v=4" />
+   
 <img  alt="Node.js" width="35px" src="https://img.icons8.com/color/452/nodejs.png" />
 
 <!-- <img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" /> -->
