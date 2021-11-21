@@ -21,14 +21,12 @@
 <img  alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img  alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img  alt="MangoDb" width="35px" src="https://avatars.githubusercontent.com/u/45120?s=280&v=4" />
    
 <img  alt="Node.js" width="35px" src="https://img.icons8.com/color/452/nodejs.png" />
 
-<!-- <img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" /> -->
+<img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
 
-<!-- <img  alt="mysql" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" /> -->
+<img  alt="mysql" width="35px" src="https://img.favpng.com/11/4/14/microsoft-sql-server-computer-icons-oracle-corporation-oracle-database-png-favpng-k4KjYieuYpSdy2bxiud63NBP2.jpg" />
 
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </div>
